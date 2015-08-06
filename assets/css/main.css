@@ -2072,6 +2072,13 @@
 			padding-left: 0;
 		}
 
+		ul.feature-icons i {
+			display: inline-block;
+			font-size: 150px;
+			padding: 50px;
+		}
+
+
 			ul.feature-icons li {
 				text-decoration: none;
 				display: inline-block;
@@ -2081,7 +2088,7 @@
 				position: relative;
 				vertical-align: top;
 				width: 48%;
-				font-size: 24px;
+				font-size: 100px;
 			}
 
 				ul.feature-icons li:before {

@@ -584,4 +584,8 @@
 
 	};
 
+	$(".feature-icons i").hover(function(){
+		$(this).toggleClass("colored")
+	})
+
 })(jQuery);
